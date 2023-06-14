@@ -1,6 +1,6 @@
 # Vue 3 Todo List
 
-![Vue logo](https://link-to-your-vue-logo.png)
+![Vue logo](https://vuejs.org/images/logo.png)
 
 A simple Todo List application built with Vue 3.
 
