@@ -23,7 +23,7 @@ A simple Todo List application built with Vue 3.
 
 ## Usage
 
-1. Start the development server: `npm run serve`
+1. Start the development server: `npm run dev`
 2. Open your browser and visit: `http://localhost:8080`
 
 ## Contributing
