@@ -2,10 +2,12 @@
 
 <p align="center">
   <img src="https://vuejs.org/images/logo.png" alt="Vue logo" width="200" height="200">
+  
 </p>
 
-A simple Todo List application built with Vue 3.
-
+<p align="center">
+A simple Todo List application built with Vue 3.  
+</p>
 ## Features
 
 - Add new tasks
