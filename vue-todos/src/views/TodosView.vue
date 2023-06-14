@@ -26,6 +26,10 @@ const toggleEditTodo = (todoPos) => {
 const updateTodo = (todoVal, todoPos) => {
   todoList.value[todoPos].todo = todoVal;
 };
+
+const deleteTodo = (todoId) => {
+  todoList.value = todoList.value.filter((todo) => todo.id !== todoId);
+};
 </script>
 
 <template>
@@ -41,6 +45,7 @@ const updateTodo = (todoVal, todoPos) => {
           @toggle-complete="toggleTodoComplete"
           @edit-todo="toggleEditTodo"
           @update-todo="updateTodo"
+          @delete-todo="deleteTodo"
           :key="index"
         />
       </ul>
