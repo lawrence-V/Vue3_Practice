@@ -1,7 +1,7 @@
 # Vue 3 Todo List
 
 <p align="center">
-  <img src="https://vuejs.org/images/logo.png" alt="Vue logo">
+  <img src="https://vuejs.org/images/logo.png" alt="Vue logo" width="200" height="150">
 </p>
 
 A simple Todo List application built with Vue 3.
